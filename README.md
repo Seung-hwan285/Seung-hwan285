@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Seung-hwan285/Seung-hwan285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
