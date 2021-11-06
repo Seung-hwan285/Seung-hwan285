@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #  😉
 ### Who Am I
 - 🌱 I’m currently learning OOP,TDD,Java
-- 🥇 I majored in Computer Science
+- 🥇 I am majoring in Computer Science
 
 ### Experience
 - 🎓 Hoseo University (2017.03~ )
