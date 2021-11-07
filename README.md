@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ### About Me👩‍💻
 
 <div align='center'>
-  <a href="https://velog.io/@iubns"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://velog.io/@ghks285"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
