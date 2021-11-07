@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 
 ### Experience
 - 🎓 Hoseo University (2017.03~ )
+
+### About Me👩‍💻
+
+<div align='center'>
+  <a href="https://velog.io/@iubns"><img src="https://velog.io/@ghks285-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</div>
