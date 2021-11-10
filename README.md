@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Experience
 - 🎓 Hoseo University (2017.03~ )
+- 💻 Hoseo Combaragi club (2017.05 ~ 2020 12)
 
 ### About Me👩‍💻
 
