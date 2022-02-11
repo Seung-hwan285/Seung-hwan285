@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   <a href="https://velog.io/@ghks285"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://www.notion.so/b3bada7b383645b0b68b07a547a4d560" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=#000000&logoColor=white"/></a>
+<a href="https://www.notion.so/b3bada7b383645b0b68b07a547a4d560" target="_blank"><img src="https://img.shields.io/badge/notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
   
  
 
