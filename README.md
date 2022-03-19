@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 #  😉
 ### Who Am I
 
-- 🌱 I’m currently learning Vanilla Javascript
+- 🌱 I’m currently learning Vanilla Javascript , React
 - 🥇 I'm majoring in Computer Science
 
 ### Experience
