@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 #  😉
 ### Who Am I
 
-- 🌱 I’m currently learning Vanilla Javascript , React
-- 🥇 I'm majoring in Computer Science
-
-### Experience
-- 🎓 Hoseo University (2017.03~ )
-- 💻 Hoseo Combaragi Club (2017.05 ~ 2020 12)
+https://seung-hwan285.github.io/resume/
 
 ### About Me👩‍💻
 
