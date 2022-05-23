@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 
 
 #  😉
-### Who Am I
 
-https://seung-hwan285.github.io/resume/
 
 ### About Me👩‍💻
 
