@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 #  😉
 
 
-### About Me👩‍💻
+### About Me
 
 <div align='center'>
 
