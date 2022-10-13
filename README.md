@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 
-#  😉
+#  😉 항상 배우는 자세
 
 
 ### About Me
